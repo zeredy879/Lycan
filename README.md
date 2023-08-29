@@ -1,4 +1,4 @@
-# Lycan
+# Overview
 This tool implements the least information redundancy algorithm of printable shellcode encoding for x86.
 
 # Usage
